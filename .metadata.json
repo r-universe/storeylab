@@ -9,5 +9,20 @@
   },
   {
     "package": "biobroom"
+  },
+  {
+    "package": "edge"
+  },
+  {
+    "package": "gcatest"
+  },
+  {
+    "package": "lfa"
+  },
+  {
+    "package": "qvalue"
+  },
+  {
+    "package": "subSeq"
   }
 ]
