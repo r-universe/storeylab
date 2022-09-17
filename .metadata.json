@@ -20,9 +20,6 @@
     "package": "lfa"
   },
   {
-    "package": "qvalue"
-  },
-  {
     "package": "subSeq"
   }
 ]
