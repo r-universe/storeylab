@@ -28,11 +28,6 @@
 	url = https://github.com/storeylab/gcatest
 	shallow = true
 	registered = true
-[submodule "lfa"]
-	path = lfa
-	url = https://github.com/storeylab/lfa
-	shallow = true
-	registered = true
 [submodule "qvalue"]
 	path = qvalue
 	url = https://github.com/storeylab/qvalue
