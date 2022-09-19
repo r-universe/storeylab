@@ -17,6 +17,12 @@
     "package": "gcatest"
   },
   {
+    "package": "lfa"
+  },
+  {
     "package": "qvalue"
+  },
+  {
+    "package": "subSeq"
   }
 ]
