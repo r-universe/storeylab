@@ -14,15 +14,15 @@
     "package": "edge"
   },
   {
-    "package": "gcatest"
-  },
-  {
-    "package": "lfa"
-  },
-  {
     "package": "qvalue"
   },
   {
     "package": "subSeq"
+  },
+  {
+    "package": "gcatest"
+  },
+  {
+    "package": "lfa"
   }
 ]

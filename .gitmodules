@@ -23,16 +23,6 @@
 	url = https://github.com/storeylab/edge
 	shallow = true
 	registered = true
-[submodule "gcatest"]
-	path = gcatest
-	url = https://github.com/storeylab/gcatest
-	shallow = true
-	registered = true
-[submodule "lfa"]
-	path = lfa
-	url = https://github.com/storeylab/lfa
-	shallow = true
-	registered = true
 [submodule "qvalue"]
 	path = qvalue
 	url = https://github.com/storeylab/qvalue
@@ -41,5 +31,15 @@
 [submodule "subSeq"]
 	path = subSeq
 	url = https://github.com/storeylab/subseq
+	shallow = true
+	registered = true
+[submodule "gcatest"]
+	path = gcatest
+	url = https://github.com/storeylab/gcatest
+	shallow = true
+	registered = true
+[submodule "lfa"]
+	path = lfa
+	url = https://github.com/storeylab/lfa
 	shallow = true
 	registered = true
