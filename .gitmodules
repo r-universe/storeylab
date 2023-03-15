@@ -3,21 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "bnpsd"]
-	path = bnpsd
-	url = https://github.com/storeylab/bnpsd
-	shallow = true
-	registered = true
-[submodule "popkin"]
-	path = popkin
-	url = https://github.com/storeylab/popkin
-	shallow = true
-	registered = true
-[submodule "biobroom"]
-	path = biobroom
-	url = https://github.com/storeylab/biobroom
-	shallow = true
-	registered = true
 [submodule "edge"]
 	path = edge
 	url = https://github.com/storeylab/edge
@@ -28,9 +13,24 @@
 	url = https://github.com/storeylab/qvalue
 	shallow = true
 	registered = true
+[submodule "biobroom"]
+	path = biobroom
+	url = https://github.com/storeylab/biobroom
+	shallow = true
+	registered = true
 [submodule "subSeq"]
 	path = subSeq
 	url = https://github.com/storeylab/subseq
+	shallow = true
+	registered = true
+[submodule "bnpsd"]
+	path = bnpsd
+	url = https://github.com/storeylab/bnpsd
+	shallow = true
+	registered = true
+[submodule "popkin"]
+	path = popkin
+	url = https://github.com/storeylab/popkin
 	shallow = true
 	registered = true
 [submodule "gcatest"]

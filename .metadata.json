@@ -1,23 +1,23 @@
 [
   {
-    "package": "bnpsd",
-    "oncran": true
-  },
-  {
-    "package": "popkin",
-    "oncran": true
-  },
-  {
-    "package": "biobroom"
-  },
-  {
     "package": "edge"
   },
   {
     "package": "qvalue"
   },
   {
+    "package": "biobroom"
+  },
+  {
     "package": "subSeq"
+  },
+  {
+    "package": "bnpsd",
+    "oncran": true
+  },
+  {
+    "package": "popkin",
+    "oncran": true
   },
   {
     "package": "gcatest"
