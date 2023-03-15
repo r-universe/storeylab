@@ -1,28 +1,28 @@
 [
   {
-    "package": "edge"
-  },
-  {
-    "package": "qvalue"
-  },
-  {
     "package": "biobroom"
-  },
-  {
-    "package": "subSeq"
   },
   {
     "package": "bnpsd",
     "oncran": true
   },
   {
-    "package": "popkin",
-    "oncran": true
+    "package": "edge"
   },
   {
     "package": "gcatest"
   },
   {
     "package": "lfa"
+  },
+  {
+    "package": "popkin",
+    "oncran": true
+  },
+  {
+    "package": "qvalue"
+  },
+  {
+    "package": "subSeq"
   }
 ]
